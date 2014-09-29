@@ -1,4 +1,11 @@
+"""
+Tarea 4 Ayudantia Computación Paralela Segundo Semestre 2014
 
+Integrantes : Jonathan León (johnnysavior)
+
+Version Paralela de la tarea 3 del mismo ramo...
+
+"""
 from mpi4py import MPI
 import time
 
