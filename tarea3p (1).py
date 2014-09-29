@@ -2,6 +2,7 @@
 Tarea 4 Ayudantia Computación Paralela Segundo Semestre 2014
 
 Integrantes : Jonathan León (johnnysavior)
+              Juan Cortez (juannmmaa)
 
 Version Paralela de la tarea 3 del mismo ramo...
 
